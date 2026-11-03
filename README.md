@@ -7,3 +7,5 @@ Paper: https://aclanthology.org/2026.emnlp-main.1150/
 The page is static HTML with Bulma CSS and has no build step. It was adapted from the
 [Nerfies](https://github.com/nerfies/nerfies.github.io) template (CC BY-SA 4.0).
 It is listed on the [KAIST MLP Lab](https://kaist-mlplab.github.io/) hub.
+
+Code: https://github.com/mjkmain/Distribution-aware-language-neurons
